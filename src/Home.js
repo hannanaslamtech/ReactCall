@@ -21,7 +21,7 @@ const Home = () => {
       <div className="relative h-screen ">
         {/* Image */}
         <div className="absolute h-full w-full flex overflow-hidden">
-          <img src={conf} className="object-cover  w-full h-full" />
+          <img alt="LogoImg" src={conf} className="object-cover  w-full h-full" />
         </div>
         {/* Overlay */}
         <div className="absolute h-full w-full flex overflow-hidden bg-black/60"></div>
