@@ -2,6 +2,10 @@
 
 ReactCall is a streamlined online video meeting app built using React and powered by ZegoCloud. Designed for seamless connectivity and ease of use, ReactCall allows you to host or join meetings with just a few clicks.
 
+# ReactCall
+Test the deployed version here !!
+https://reactcall.netlify.app/
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
