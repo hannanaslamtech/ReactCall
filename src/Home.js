@@ -32,7 +32,7 @@ const Home = () => {
             <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
               Online Learning Platform
             </h1>
-            <p className="text-[26px] text-white  -mt-2">Project by AST pvt ltd.</p>
+            <p className="text-[26px] text-white  -mt-2">Project by AST PVT LTD.</p>
           </div>
 
           {/* Enter Code */}
